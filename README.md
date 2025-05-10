@@ -1,5 +1,5 @@
 # Firebase-Authentication-SDK-Integration
- Integrate third-party SDKs using Maven(Gradle) and implement a basic user authentication flow using the Firebase Authentication SDK in a Java application
+ Integrate third-party SDKs using Maven(Gradle) and implement a basic user authentication flow using the Firebase Authentication SDK in a Java(Android Studio Meerkat) application
 
 # Notes:
 - Main authentication logic is written in FirebaseAuthentication.java class
